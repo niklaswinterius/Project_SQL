@@ -1,0 +1,2 @@
+"min_customer_id","max_customer_id","avg_customer_id","min_store_id","max_store_id","avg_store_id","min_address_id","max_address_id","min_create_date","max_create_date","mode_create_date","min_last_update","max_last_update","mode_activebool"
+1,599,300.0000000000000000,1,2,1.4557595993322204,5,605,"2006-02-14","2006-02-14","2006-02-14","2013-05-26 14:49:45.738","2013-05-26 14:49:45.738",True
